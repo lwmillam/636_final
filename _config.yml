@@ -50,7 +50,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     <li><a href="resume">Work History</a></li>
     <li><a href="practicum">Practicum</a></li>
   </ul>
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "636_final" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: lwmillam
