@@ -14,4 +14,4 @@ layout: default
 
   My name is Lance Millam and I am a soon-to-be graduate with a Masters in Library and Information Science from the University of North Carolina, Greensboro.  I believe in the mission of literacy and education being undertaken at our nation's libraries.  Information is the resource of the future, access to which will be the determining factor for success for future generations. Our civilization is currently experiencing an explosion of information thanks to things like the internet, and people need trained, knowledgeable professionals to help guide them and teach them how to navigate on their own. </p>
 
-<h2> Contact Info: Email - lwmillam@uncg.edu Twitter @lancemillam
+<h2> Contact Info: Email - lwmillam@uncg.edu Twitter @lancemillam </h2>
